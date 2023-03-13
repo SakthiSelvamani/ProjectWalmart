@@ -1,2 +1,2 @@
-# ProjectWalmart
-Capstone Project
+# Walmart Sales Forecasting
+
